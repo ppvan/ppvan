@@ -7,9 +7,7 @@
 
 - A normal student study at University of Science and Technology
 
-- A GNU/Linux enjoyer
-
-- An Arch user (i use arch, btw)
+- A GNU/Linux enthusiast
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ppvan353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ppvan353" height="30" width="40" /></a>
