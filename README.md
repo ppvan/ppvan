@@ -19,7 +19,7 @@ I write Python code for 2 years. I'm good at Python and I can use it to create M
 ##### An nautilus extension
 
 <a href="https://github.com/ppvan/nautilus-open-in-blackbox">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=uetschedule&theme=transparent"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=nautilus-open-in-blackbox&theme=transparent"/>
 <a/><br/><br/>
 
 
@@ -31,7 +31,7 @@ I write Python code for 2 years. I'm good at Python and I can use it to create M
 ##### A cli tools
 > This is a cli tools to help me auto create my schedule for a semester by scraping data from my university website.
 
-<a href="https://github.com/ppvan/tree">
+<a href="https://github.com/ppvan/uetschedule">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=uetschedule&theme=transparent"/>
 <a/>
 <br>
