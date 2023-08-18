@@ -17,20 +17,22 @@ At this point i can learn any programming language/framework in a short time. I'
 I write Python code for 2 years. I'm good at Python and I can use it to create MVC web applications, RESTful APIs, CLI tools, etc.
 
 ##### An nautilus extension
+
 <a href="https://github.com/ppvan/nautilus-open-in-blackbox">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=nautilus-open-in-blackbox"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=uetschedule&theme=transparent"/>
 <a/><br/><br/>
+
 
 ##### A MVC web application
 <a href="https://github.com/ppvan/tree">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=tree"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=tree&theme=transparent"/>
 <a/><br/><br/>
 
 ##### A cli tools
 > This is a cli tools to help me auto create my schedule for a semester by scraping data from my university website.
 
 <a href="https://github.com/ppvan/tree">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=uetschedule"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=uetschedule&theme=transparent"/>
 <a/>
 <br>
 
@@ -60,8 +62,8 @@ I learn Vala and GTK to sharpen my skills (Because it's hard, incomple documenta
 
 I 'm currently working on Psequel, a PostgreSQL client for Linux.
 
-<a href="https://github.com/ppvan/tree">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=psequel"/>
+<a href="https://github.com/ppvan/psequel">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=psequel&theme=transparent"/>
 <a/>
 <br>
 
