@@ -26,6 +26,9 @@ I use Arch, btw
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+[![ppvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppvan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Contacts
 
 <a href="https://www.facebook.com/ppvan353">
