@@ -3,75 +3,35 @@
 </p>
 
 <h2 align="left">About me</h2>
-Hi, I'm Phạm Văn Phúc (aka. ppvan), a backend developper from Vietnam. I love programming and I'm currently learning backend development.
+Hi, I'm Phạm Văn Phúc (aka. ppvan), a backend developper from Vietnam.
 
 Currently, I'm studying at University of Science and Technology (UET).
 
-I'm a big fan of open source and Richard Stallman. I'm also a ArchLinux user.
+I use Arch, btw
 
 ## My skills
 
-At this point i can learn any programming language/framework in a short time. I'm also good at problem solving and algorithms.
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
-### Python
-I write Python code for 2 years. I'm good at Python and I can use it to create MVC web applications, RESTful APIs, CLI tools, etc.
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-##### An nautilus extension
+## Contacts
 
-<a href="https://github.com/ppvan/nautilus-open-in-blackbox">
-<img align="center" src="https://readmestats.999857.xyz/api/pin?username=ppvan&repo=nautilus-open-in-blackbox&theme=dark"/>
-<a/><br/><br/>
+<a href="https://www.facebook.com/ppvan353">
+    <img height="32" align="left" alt="Mail" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+</a>
 
-
-##### A MVC web application
-<a href="https://github.com/ppvan/tree">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=tree&theme=transparent"/>
-<a/><br/><br/>
-
-##### A cli tools
-> This is a cli tools to help me auto create my schedule for a semester by scraping data from my university website.
-
-<a href="https://github.com/ppvan/uetschedule">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=uetschedule&theme=transparent"/>
-<a/>
-<br>
-
-
-### Java
-
-
-I learn Java for 2 years or more in my university.
-
-Although i don't use Java for side projects (it's bloated), most of core concepts (ALgorithm, OOP, Design Patterns, etc.) i learned from Java.
-
-### Go
-
-I'm currently learning Go transistion from Java. I'm learning Go because it's fast, simple and easy to use.
-
-I really like Go and it's philosophy. I'm planning to use Go for my side projects.
-
-### Linux
-
-I use Linux for 2 years. I use Arch, btw. That's enough.
-
-### Vala and GTK
-
-Vala is a C# like language that compile to C. It's used to create GTK application.
-
-I learn Vala and GTK to sharpen my skills (Because it's hard, incomple documentation, etc.)
-
-I 'm currently working on Psequel, a PostgreSQL client for Linux.
-
-<a href="https://github.com/ppvan/psequel">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ppvan&repo=psequel&theme=transparent"/>
-<a/>
-<br>
-
-### Other
-
-I can work with some relational database like PostgreSQL, MySQL, SQLite, etc.
-
-I also can do some basic frontend stuff with HTMX, TailwindCSS, etc.
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ppvan&theme=dark" alt="ppvan" /></p>
+<a href="mailto:phuclaplace@gmail.com">
+    <img height="32" align="left" alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
