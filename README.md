@@ -3,9 +3,7 @@
 </p>
 
 <h2 align="left">About me</h2>
-Hi, I'm Phạm Văn Phúc (aka. ppvan), a backend developper from Vietnam.
-
-Currently, I'm studying at University of Science and Technology (UET).
+Hi, I'm Phuc Pham Van (aka. ppvan), a developper
 
 I use Arch, btw
 
